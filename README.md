@@ -36,5 +36,3 @@ These instructions will help you set up and run the application on your local ma
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
-
-## License
